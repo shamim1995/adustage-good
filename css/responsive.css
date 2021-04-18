@@ -1,0 +1,424 @@
+@media only screen  and (min-width:280px) and (max-width:768px){
+    .logo img {
+        height: 22px;
+    }
+    div#header_Bg {
+        /* display: none; */
+        height: 100%;
+    }
+    
+    .services_section_title {
+        margin-top: 19px;
+    }
+    
+    .services_icon_title {
+        width: 100%;
+        width: 100%;
+        margin-bottom: 20px;
+        /* margin-left: 48px; */
+        text-align: center;
+        /* box-sizing: border-box; */
+        margin-left: 0px;
+        padding: 35px 0px;
+    }
+    
+    .wrapper {
+        width: 100%;
+    }
+    
+    .team_section {
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 33px;
+    }
+
+    .team_section_image {
+    }
+    
+    .team_section_image img {
+        width: 100%;
+    }
+    
+    .team_section_image_content {
+        width: 100%;
+    }
+    
+    .team_section_image_content p {
+        width: 100%;
+        margin-left: 0px;
+    }
+    
+    .team_section_image_content a {
+        margin-left: 0px;
+    }
+    
+    .team_section_image_content h5 {
+        margin-left: 0px;
+    }
+
+    .course_section_title {
+        width: 100%;
+        margin-left: 0px;
+        text-align: center;
+    }
+    
+    .course_section_title h2 {
+        margin-left: 0px;
+    }
+    
+    .course_section_title p {
+        margin-left: 0px;
+        margin-right: 0px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    
+    .course_time {
+        /* padding: 5px; */
+        margin-left: 12px;
+        margin-top: 37px;
+        float: none;
+        margin-left: 0px;
+    }
+    .course_form {
+        width: 100%;
+        margin-right: 0px;
+        /* margin: 22px; */
+        text-align: center;
+        padding-bottom: 25px;
+        margin-top: 29px;
+    }
+    
+    button.course_btn {
+        width: 37%;
+        margin-left: 0px;
+    }
+    .trainer_section {
+        width: 100%;
+        margin-left: 0px;
+        float: none;
+        text-align: center;
+    }
+    .trainer_section_image_content {
+        float: none;
+        margin: 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    .upcoming_gallery_left {
+        margin-right: 0px;
+        width: 100%;
+        position: relative;
+        float: none;
+        margin-bottom: 25px;
+    }
+    
+    .upcoming_title_left {
+        position: absolute;
+        left: 48%;
+        width: 51%;
+        height: 250px;
+    }
+    
+    .upcoming_gallery_left img {
+        width: 100%;
+    }
+    .owl_content {
+        /* float: none; */
+        width: 100%;
+    }
+    .widget_first_section {
+        width: 100%;
+        float: none;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    
+    .widget_first_section_input {
+        float: none;
+        text-align: center;
+        margin-right: 0px;
+        width: 100%;
+    }
+    
+    .fotter_title {
+        width: 100%;
+        font-size: 14px;
+        text-align: center;
+    }
+    
+    .footer_icon {
+        width: 100%;
+        text-align: center;
+        margin-top: 32px;
+    }
+    .owl_section_title_content h4 {
+        font-size: 30px;
+    }
+
+    div#header_Bg {
+    }
+    
+    .banner_title h5 {
+        font-size: 8px;
+    }
+    
+    .banner_title h2 {
+        font-size: 12px;
+    }
+    
+    .banner_title_btn {
+        margin-top: 6px;
+        /* margin-bottom: 216px; */
+        padding: 60px;
+    }
+    
+    .banner_title {
+        /* margin-bottom: 122px; */
+        position: absolute;
+        left: 24%;
+        top: 11%;
+    }
+    
+    button.banner_Btn1 {margin-top: 80px;/* background: transparent; */position: absolute;left: 27%;top: 85px;padding: 3px 0px;}
+    
+    button.banner_Btn2 {
+        position: absolute;
+        left: 175px;
+        top: 23%;
+        width: 82px;
+        font-size: 14px;
+        padding: 3px 0px;
+        margin-left: 36px;
+    }
+    
+    .logo_menu {
+    }
+    
+    .menu {
+    }
+
+
+
+
+
+}
+
+
+@media only screen  and (min-width:768px) and (max-width:992px){
+
+    .wrapper {
+        width: 100%;
+    }
+    
+    .logo {
+        width: 100%;
+    }
+    
+    .menu {
+        margin-left: 0px;
+    }
+    
+    #header_Bg {height: 100%;}
+    
+    .banner_title_btn {margin-top: 5px;padding-bottom: 262px;}
+    
+    .banner_title {
+        margin-top: 0px;
+    }
+    
+    .services_icon_title {
+        width: 41%;
+        margin-bottom: 45px;
+        margin-left: 40px;
+        /* margin-right: 26px; */
+        /* float: none; */
+    }
+    
+    .team_section {
+        width: 45%;
+        margin-bottom: 36px;
+        margin-left: 35px;
+    }
+    
+    .team_section_image img {
+        width: 100%;
+    }
+    
+    .team_section_image_content {
+        width: 100%;
+        padding: 0px;
+    }
+    
+    .team_section_image {
+        width: 100%;
+    }
+    
+    .course_section_title {
+        margin-left: 25px;
+        width: 50%;
+    }
+    
+    .course_section_title h2 {margin-left: 0px;}
+    
+    .course_form {
+        margin-right: 24px;
+        width: 37%;
+        margin-top: 100px;
+    }
+    
+    .upcoming_gallery_left {
+        width: 100%;
+        float: none;
+        margin-bottom: 25px;
+    }
+    
+    .upcoming_title_left {position: absolute;left: 74%;}
+    
+    .upcoming_gallery_left img {
+        width: 100%;
+    }
+    
+    .course_section_title p {
+        width: 100%;
+        margin-left: 0px;
+    }
+    
+    .course_time {
+        width: 121px;
+        margin-bottom: 15px;
+        margin-left: 0px;
+        margin-right: 19px;
+    }
+
+    .widget_first_section {
+        width: 187px;
+        /* text-align: center; */
+        margin-left: 33px;
+    }
+    .widget_first_section_input {
+        width: 100%;
+        text-align: center;
+        margin-top: 57px;
+    }
+    .trainer_section {
+        text-align: center;
+        width: 46%;
+        margin-left: 0px;
+        /* float: left; */
+        padding-left: 24px;
+    }
+
+.trainer_section_image_content {
+    text-align: center;
+    /* width: 309px; */
+    width: 100%;
+    padding: 10px 0px;
+}
+
+.fotter_title {
+    width: 100%;
+    text-align: center;
+}
+
+.footer_icon {
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.trainer_section_image img {
+    width: 100%;
+}
+
+}
+
+@media only screen  and (min-width:992px) and (max-width:1200px){
+
+
+    div#header_Bg {
+        height: 100%;
+    }
+    
+    .wrapper {
+        width: 100%;
+    }
+    
+    .logo {
+        width: 100%;
+    }
+    
+    .menu {
+        width: 100%;
+        margin-left: 0px;
+    }
+    
+    .banner_title_btn {
+        margin-top: 50px;
+        padding-bottom: 276px;
+    }
+    
+    .trainer_section_image img {
+        width: 100%;
+    }
+    
+    .trainer_section_image_content {
+        padding: 10px 0px;
+        width: 100%;
+        margin-right: 0px;
+        border: none;
+    }
+    
+    .trainer_section_image {
+    }
+    
+    .widget_first_section {text-align: center;}
+    
+    .fotter_title {
+        text-align: center;
+        padding-left: 20px;
+    }
+
+
+
+    .services_icon_title {
+        width: 44%;
+        margin-bottom: 25px;
+    }
+    
+    .team_section {
+        /* width: 50%; */
+        padding-left: 68px;
+        margin-bottom: 38px;
+    }
+    
+    .course_section_title {
+        margin-left: 0px;
+        width: 55%;
+    }
+    
+    .course_form {
+        width: 39%;
+        margin-right: 19px;
+    }
+    
+ 
+    
+    .trainer_section {
+        width: 431px;
+    }
+    
+    .upcoming_gallery_left {width: 100%;margin-bottom: 35px;}
+    
+    .upcoming_gallery_left img {
+        width: 100%;
+    }
+    
+    .upcoming_title_left {
+        position: absolute;
+        left: 80%;
+    }
+
+
+}
